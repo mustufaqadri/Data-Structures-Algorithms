@@ -1,8 +1,7 @@
 public class Fibonacci {
     /*
-        This will print the fibonacci series upto the given index (n).
         Problem Link: https://leetcode.com/problems/fibonacci-number/description/
-     */
+    */
     public static int solve(int n) {
         if (n == 0) return 0;
         if (n == 1) return 1;
