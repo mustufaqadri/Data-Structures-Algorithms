@@ -1,19 +1,22 @@
 public class Fibonacci {
     /*
         This will print the fibonacci series upto the given index (n).
+        Problem Link: https://leetcode.com/problems/fibonacci-number/description/
      */
-    public static void solve(int n) {
-        int t1 = 0, t2 = 1, tn;
-        System.out.print(t1 + ", " + t2 + ", ");
+    public static int solve(int n) {
+        if (n == 0) return 0;
+        if (n == 1) return 1;
 
-        int index = 2;
+        int t1 = 0, t2 = 1, tn = 0;
+        int index = 1;
+
         while (index < n) {
             tn = t1 + t2;
             t1 = t2;
             t2 = tn;
             index++;
-
-            System.out.print(tn + ", ");
         }
+
+        return tn;
     }
 }

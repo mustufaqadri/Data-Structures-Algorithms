@@ -30,7 +30,7 @@ Each problem has its own directory within the `Problems` folder, containing the 
 
 Here's a list of the LeetCode problems I've tackled so far:
 
-1. [Problem 1](./Problems/Problem1/README.md): Description of the problem and solution(s).
+1. [Fibonacci Number](./src/Fibonacci.java): https://leetcode.com/problems/fibonacci-number/description
 2. [Problem 2](./Problems/Problem2/README.md): Description of the problem and solution(s).
 3. ...
 
