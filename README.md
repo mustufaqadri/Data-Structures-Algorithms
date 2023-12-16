@@ -32,7 +32,7 @@ Here's a list of the LeetCode problems I've tackled so far:
 
 1. [Fibonacci Number:](./src/Fibonacci.java) https://leetcode.com/problems/fibonacci-number/description
 2. [Frequency Count](./src/FrequencyCount.java): This program will count the occurrences of a digit in the given number.
-3. ...
+3. [Reverse Number](./src/ReverseNumber.java): This program will reverse the given number..
 
 For detailed explanations and code, please navigate to the respective problem directories.
 
