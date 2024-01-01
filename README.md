@@ -30,10 +30,11 @@ Each problem has its own directory within the `Problems` folder, containing the 
 
 Here's a list of the LeetCode problems I've tackled so far:
 
-1. [Fibonacci Number:](./src/Fibonacci.java) https://leetcode.com/problems/fibonacci-number/description
-2. [Frequency Count:](./src/FrequencyCount.java) This program will count the occurrences of a digit in the given number.
-3. [Reverse Number:](./src/ReverseNumber.java) This program will reverse the given number.
-4. [Prime Number:](./src/PrimeNumber.java) This program will tell whether the given number is prime or not.
+1. [Fibonacci Number:](./src/basics/Fibonacci.java) https://leetcode.com/problems/fibonacci-number/description
+2. [Frequency Count:](./src/basics/FrequencyCount.java) This program will count the occurrences of a digit in the given number.
+3. [Reverse Number:](./src/basics/ReverseNumber.java) This program will reverse the given number.
+4. [Prime Number:](./src/basics/PrimeNumber.java) This program will tell whether the given number is prime or not.
+5. [Armstrong Number:](./src/basics/ArmstrongNumber.java) This program will tell whether the given number is armstrong or not.
 
 For detailed explanations and code, please navigate to the respective problem directories.
 

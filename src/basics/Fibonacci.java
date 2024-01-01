@@ -1,3 +1,5 @@
+package basics;
+
 public class Fibonacci {
     /*
         Problem Link: https://leetcode.com/problems/fibonacci-number/description/

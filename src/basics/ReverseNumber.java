@@ -1,3 +1,5 @@
+package basics;
+
 public class ReverseNumber {
     /*
         This program will reverse the given number.

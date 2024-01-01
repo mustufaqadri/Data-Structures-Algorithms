@@ -1,3 +1,5 @@
+package basics;
+
 public class PrimeNumber {
     /*
         This program will tell whether the given number is prime or not.
