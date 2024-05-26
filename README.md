@@ -36,6 +36,9 @@ Here's a list of the LeetCode problems I've tackled so far:
 4. [Prime Number:](./src/basic/PrimeNumber.java) This program will tell whether the given number is prime or not.
 5. [Armstrong Number:](./src/basic/ArmstrongNumber.java) This program will tell whether the given number is armstrong or not.
 6. [Reverse Array:](./src/array/ReverseArray.java) This program will reverse the given array.
+7. [Linear Search:](./src/search/LinearSearch.java) This program will return index of the target if found else return -1.
+8. [String Search:](./src/search/StringSearch.java) This program will tell whether a character is present in the given string or not.
+9. [Range Search:](./src/search/RangeSearch.java) This program will search an element within the given range.
 
 For detailed explanations and code, please navigate to the respective problem directories.
 
