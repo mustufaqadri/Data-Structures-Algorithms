@@ -24,21 +24,15 @@ Feel free to explore the repository and use the solutions as a reference. If you
 
 The repository is organized as follows:
 
-Each problem has its own directory within the `Problems` folder, containing the problem statement, my solution(s), and a README file with explanations, time complexity analysis, and any relevant notes.
+All the problems are divided into relevant packages like basic, array, search, etc.
 
 ## LeetCode Solutions
 
 Here's a list of the LeetCode problems I've tackled so far:
 
-1. [Fibonacci Number:](./src/basic/Fibonacci.java) https://leetcode.com/problems/fibonacci-number/description
-2. [Frequency Count:](./src/basic/FrequencyCount.java) This program will count the occurrences of a digit in the given number.
-3. [Reverse Number:](./src/basic/ReverseNumber.java) This program will reverse the given number.
-4. [Prime Number:](./src/basic/PrimeNumber.java) This program will tell whether the given number is prime or not.
-5. [Armstrong Number:](./src/basic/ArmstrongNumber.java) This program will tell whether the given number is armstrong or not.
-6. [Reverse Array:](./src/array/ReverseArray.java) This program will reverse the given array.
-7. [Linear Search:](./src/search/LinearSearch.java) This program will return index of the target if found else return -1.
-8. [String Search:](./src/search/StringSearch.java) This program will tell whether a character is present in the given string or not.
-9. [Range Search:](./src/search/RangeSearch.java) This program will search an element within the given range.
+1. [Basics](./Basics.md)
+2. [Arrays](./Arrays.md)
+3. [Searching](./Searching.md)
 
 For detailed explanations and code, please navigate to the respective problem directories.
 

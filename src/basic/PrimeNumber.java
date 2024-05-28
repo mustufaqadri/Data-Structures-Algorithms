@@ -13,28 +13,10 @@ public class PrimeNumber {
         boolean isPrime = true;
 
         for (int i = 2; i < limit; i++) {
-            if (num % 2 == 0) {
+            if (num % i == 0) {
                 isPrime = false;
                 break;
             }
-        }
-
-        return isPrime;
-    }
-
-    public static boolean solveQuick(int num) {
-        if (num <= 1) {
-            return false;
-        }
-
-        boolean isPrime = true;
-        int factor = 2;
-        while (factor * factor <= num) {
-            if (num % factor == 0) {
-                isPrime = false;
-                break;
-            }
-            factor++;
         }
 
         return isPrime;
